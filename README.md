@@ -60,24 +60,8 @@ De manière générale, chaque étape du workshop possède des tests pour valide
 ## Les étapes du workshop
 
 * [Etape 0](/step-0)
-  * Mise en place des outils de build
-    * webpack
-    * webpack-dev-server
-    * babel
-    * eslint
-  * Création du premier module `Angular`
-  * Mise en place des outils de test
-    * Karma
-    * Jasmine
-    * Chai
-  * Création du premier TU
 * [Etape 1](/step-1)
-  * Component/Directive
-    * template
-    * binding
-    * ngAnimate
-    * ngMessageFormat
 * [Etape 2](/step-2)
-  * Controller
-    * scope
-    * TUs
+* [Etape 1](/step-3)
+* [Etape 2](/step-4)
+* [Etape 1](/step-5)

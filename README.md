@@ -59,9 +59,20 @@ De manière générale, chaque étape du workshop possède des tests pour valide
 
 ## Les étapes du workshop
 
-* [Etape 0](/step-0)
-* [Etape 1](/step-1)
-* [Etape 2](/step-2)
-* [Etape 1](/step-3)
-* [Etape 2](/step-4)
-* [Etape 1](/step-5)
+* [Etape 0](/step-0) Getting Started
+  * Environnement de dev : npm, webpack, ...
+  * Première application et premier test
+* [Etape 1](/step-1) Directives et Components
+  * Approche orientée composants
+  * Binding
+* [Etape 2](/step-2) Contrôleurs & Formulaires
+  * Rôle du contrôleur
+  * Injection de dépendances
+  * Formulaires & Validation
+* [Etape 3](/step-3) Services
+  * Rôle des services
+  * Services built-in et services custom
+* [Etape 4](/step-4) Routeur
+  * Approche par état
+  * UI-Router
+* [Etape 5](/step-5) RXjs et Promise
